@@ -1,6 +1,6 @@
 # Maya TeleGeometry Cabler
 
-Aa library for projecting [data regarding underseas cables](https://www.submarinecablemap.com/) to a stylized representation in [Maya](https://www.autodesk.com/products/maya/overview).
+Create stylized underseas cables in [Maya](https://www.autodesk.com/products/maya/overview) from [TeleGeometry's open source data](data regarding underseas cables](https://www.submarinecablemap.com/).
 
 ![cabled globe screenshot](/cabled-globe.jpeg)
 
