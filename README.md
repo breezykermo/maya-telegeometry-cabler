@@ -1,6 +1,6 @@
 # Maya TeleGeometry Cabler
 
-Create stylized underseas cables in [Maya](https://www.autodesk.com/products/maya/overview) from [TeleGeometry's open source data](data regarding underseas cables](https://www.submarinecablemap.com/).
+Create stylized underseas cables in [Maya](https://www.autodesk.com/products/maya/overview) from [TeleGeometry's open source data](https://www.submarinecablemap.com/).
 
 ![cabled globe screenshot](/cabled-globe.jpeg)
 
