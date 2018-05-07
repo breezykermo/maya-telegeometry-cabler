@@ -1,5 +1,7 @@
-import importlib
-importlib.import_module('lib/Cabler')
+"""
+Ensure that you have saturated your Maya environment as specified in the README,
+and then you should be able to run the following code in Maya's script editor.
+"""
 
 RADIUS = 100
 cabler = Cabler(RADIUS)
